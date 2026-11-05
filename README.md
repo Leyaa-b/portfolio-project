@@ -19,7 +19,7 @@ SQL and Excel projects covering data exploration, cleaning, and dashboards.
 
 <img width="1315" height="712" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/ab351608-6394-4a82-83c0-9fed5f779479" />
 
-- **File:** [Excel Project Dataset.xlsx] (https://github.com/user-attachments/files/34429398/Excel.Project.Dataset.xlsx)
+- **File:** https://1drv.ms/x/c/4530e1aeab86b5a9/IQAAtX-spKFtT5XEwvkzdnL7AVmbONicgXCotHKTkwfQ408?e=fXWXe6
 - **What it does:** Shows which customers buy bikes, with filters for marital status, education, and region.
 - **Skills used:** data cleaning with lookup functions, pivot tables, pivot charts, slicers
 
