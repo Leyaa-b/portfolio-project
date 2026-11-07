@@ -27,7 +27,22 @@ SQL and Excel projects covering data exploration, cleaning, and dashboards.
 - Bike buyers have a higher average income than non-buyers, for both women and men.
 - Middle-aged customers are the largest group and include the most buyers.
 - Customers with the shortest commutes (0-1 miles) are the most likely to buy.
+  
+## 4. Seattle Airbnb Price Dashboard (Tableau)
 
+![Seattle Airbnb Price Dashboard](<img width="1462" height="851" alt="airbnb_dashboard" src="https://github.com/user-attachments/assets/9561f6c5-a098-4604-9052-34be36a0c156" />
+
+
+- **Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/leya.babu/viz/Tableauproject_17940442092780/Dashboard1)
+- **What it shows:** How Airbnb listing prices in Seattle vary by zipcode and across the weeks of the year.
+- **Views:** a bar chart of average price by zipcode, a line chart of average price by week, and a map of Seattle zipcodes coloured by average price.
+- **Skills used:** Tableau, data cleaning (zipcode field), interactive dashboard design, map visualisation
+
+
+**Key insights**
+- Average nightly prices vary widely by zipcode: 98146 is the highest at about $200, followed by 98178 ($169) and 98134 ($150), while the lowest, such as 98106, are around $86.
+- A small group of zipcodes (98146, 98178, 98134, 98121) is priced well above the rest, and most zipcodes fall between roughly $85 and $100.
+- Weekly average prices stay between about $85 and $110, with the highest point at the start of the year and smaller peaks around weeks 31 and 40 to 43.
 ## Tools
 
-SQL Server, Microsoft Excel
+SQL Server, Microsoft Excel,Tableau
