@@ -43,6 +43,24 @@ SQL and Excel projects covering data exploration, cleaning, and dashboards.
 - Average nightly prices vary widely by zipcode: 98146 is the highest at about $200, followed by 98178 ($169) and 98134 ($150), while the lowest, such as 98106, are around $86.
 - A small group of zipcodes (98146, 98178, 98134, 98121) is priced well above the rest, and most zipcodes fall between roughly $85 and $100.
 - Weekly average prices stay between about $85 and $110, with the highest point at the start of the year and smaller peaks around weeks 31 and 40 to 43.
+
+  
+## 5. Data Professional Survey Dashboard (Power BI)
+
+![Data Professional Survey Dashboard]<img width="1440" height="800" alt="image" src="https://github.com/user-attachments/assets/0c1cc2b2-877d-4ff5-b517-6ccc0753af07" />
+
+
+- **File:** <img width="1440" height="800" alt="image" src="https://github.com/user-attachments/assets/067fa05e-deef-410e-898c-fc451393cfb3" />
+
+- **What it shows:** A breakdown of 261 data professionals from a survey: where they live, their job titles and average salaries, favourite programming languages, how hard it was to break into data, and how happy they are with their work-life balance and salary.
+- **Skills used:** Power BI, data modelling, DAX measures, interactive dashboard design (treemap, bar, stacked column, donut, KPI cards, gauges)
+- **Dataset:** https://1drv.ms/x/c/4530e1aeab86b5a9/IQAvY_-lV7sBTrcwF40C2Y2IAR1QvNWGopYb20Zezyq_dIc?e=7LeiGd
+
+**Key insights**
+- The survey has 261 respondents with an average age of about 31.
+- Most respondents live in the United States, followed by India, the United Kingdom, and Canada.
+- Data Scientists report the highest average salary, followed by Data Engineers, while students and those looking for work report the lowest.
+- Average happiness with work-life balance is 6.4 out of 10, while happiness with salary is lower at 5.0 out of 10.
 ## Tools
 
-SQL Server, Microsoft Excel,Tableau
+SQL Server, Microsoft Excel, Tableau, Power BI
