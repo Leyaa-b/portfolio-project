@@ -47,9 +47,6 @@ SQL and Excel projects covering data exploration, cleaning, and dashboards.
   
 ## 5. Data Professional Survey Dashboard (Power BI)
 
-![Data Professional Survey Dashboard]<img width="1440" height="800" alt="image" src="https://github.com/user-attachments/assets/0c1cc2b2-877d-4ff5-b517-6ccc0753af07" />
-
-
 - **File:** <img width="1440" height="800" alt="image" src="https://github.com/user-attachments/assets/067fa05e-deef-410e-898c-fc451393cfb3" />
 
 - **What it shows:** A breakdown of 261 data professionals from a survey: where they live, their job titles and average salaries, favourite programming languages, how hard it was to break into data, and how happy they are with their work-life balance and salary.
