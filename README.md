@@ -30,7 +30,7 @@ SQL and Excel projects covering data exploration, cleaning, and dashboards.
   
 ## 4. Seattle Airbnb Price Dashboard (Tableau)
 
-![Seattle Airbnb Price Dashboard](<img width="1462" height="851" alt="airbnb_dashboard" src="https://github.com/user-attachments/assets/9561f6c5-a098-4604-9052-34be36a0c156" />
+![Seattle Airbnb Price Dashboard](https://github.com/user-attachments/assets/9561f6c5-a098-4604-9052-34be36a0c156)
 
 
 - **Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/leya.babu/viz/Tableauproject_17940442092780/Dashboard1)
@@ -44,10 +44,9 @@ SQL and Excel projects covering data exploration, cleaning, and dashboards.
 - A small group of zipcodes (98146, 98178, 98134, 98121) is priced well above the rest, and most zipcodes fall between roughly $85 and $100.
 - Weekly average prices stay between about $85 and $110, with the highest point at the start of the year and smaller peaks around weeks 31 and 40 to 43.
 
-  
 ## 5. Data Professional Survey Dashboard (Power BI)
 
-- **File:** <img width="1440" height="800" alt="image" src="https://github.com/user-attachments/assets/067fa05e-deef-410e-898c-fc451393cfb3" />
+![Data Professional Survey Dashboard](https://github.com/user-attachments/assets/067fa05e-deef-410e-898c-fc451393cfb3)  
 
 - **What it shows:** A breakdown of 261 data professionals from a survey: where they live, their job titles and average salaries, favourite programming languages, how hard it was to break into data, and how happy they are with their work-life balance and salary.
 - **Skills used:** Power BI, data modelling, DAX measures, interactive dashboard design (treemap, bar, stacked column, donut, KPI cards, gauges)
