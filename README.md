@@ -56,6 +56,38 @@ SQL and Excel projects covering data exploration, cleaning, and dashboards.
 - Most respondents live in the United States, followed by India, the United Kingdom, and Canada.
 - Data Scientists report the highest average salary, followed by Data Engineers, while students and those looking for work report the lowest.
 - Average happiness with work-life balance is 6.4 out of 10, while happiness with salary is lower at 5.0 out of 10.
+
+
+## 6.PySpark Sales Analysis (Databricks)
+
+Sales analysis of restaurant orders using PySpark and a Databricks dashboard.
+
+## Data Source
+The raw input files are stored in a Databricks Unity Catalog volume (`workspace.default.pysparkproject`):
+- Products data: `/Volumes/workspace/default/pysparkproject/product.txt`
+- Sales data: `/Volumes/workspace/default/pysparkproject/sales.txt`
+## What I did
+- Loaded the data into Spark DataFrames
+- Cleaned the data
+- Joined the tables on the common factor ie., productid
+- Aggregated with groupBy: sales by year, month, order source, country, customer, product
+- Built a dashboard 
+
+## Dashboard
+<img width="1296" height="652" alt="image" src="https://github.com/user-attachments/assets/5f9821b3-8d47-4577-814e-2bca980fa56a" />
+<img width="1257" height="605" alt="image" src="https://github.com/user-attachments/assets/07be399b-1440-40d4-8228-3b02acb9f4a0" />
+<img width="1263" height="642" alt="image" src="https://github.com/user-attachments/assets/7b706f8c-3628-4399-9574-2c738b3d29bf" />
+
+
+
+## Key findings
+- Sandwich is the top ordered item
+- UK has the highest total sales, followed by India and the USA
+- Customers A and B spend the most
+
+## How to run
+Import the notebook into Databricks and run all cells.
+  
 ## Tools
 
-SQL Server, Microsoft Excel, Tableau, Power BI
+SQL Server, Microsoft Excel, Tableau, Power BI, PySpark, Spark SQL, Databricks(Free Edition)
